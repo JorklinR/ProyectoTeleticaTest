@@ -11,6 +11,12 @@ SearchTest.java
 
 socialMediaTest.java
 
-Entertainment.java
+EntertainmentTest.java
+
+LiveTest.java
+
+NewsTest.java
+
+SportsTest.java
 
 Cada clase se puede ejecutar para realizar la pruebas especifica de cada una. Al ejecutarlo se abrirá un chromedriver en donde se realizará la prueba que se ejecute.
